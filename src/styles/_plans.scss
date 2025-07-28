@@ -30,12 +30,14 @@
         display: block;
         margin-left: -50px;
         margin-top: 24px;
+        margin-right: -40px;
 
       }
 
       img {
         height: 83px;
         max-width: 100%;
+        margin-left: -25px;
     
     }
     }
@@ -43,5 +45,10 @@
 
   p {
     text-align: center;
+  }
+
+  .button{
+
+    margin-left: 25px;
   }
 }
